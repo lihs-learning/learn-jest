@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`快照 getConfigWithoutTime 1`] = `
+Object {
+  "port": 0,
+  "server": "",
+}
+`;
